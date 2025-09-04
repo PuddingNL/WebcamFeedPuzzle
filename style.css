@@ -1,0 +1,17 @@
+body {
+  font-family: Arial, sans-serif;
+  background: #222;
+  color: #fff;
+  text-align: center;
+}
+
+h1 {
+  margin-top: 20px;
+}
+
+#puzzleCanvas {
+  background: #000;
+  border: 2px solid #fff;
+  margin-top: 20px;
+  cursor: grab;
+}
